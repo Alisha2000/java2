@@ -13,7 +13,7 @@ public class arrays1 {
 		int[] numbers2=new int[] {1,2,3,4};
 		System.out.println(numbers2[0]);
 		System.out.println(numbers2[3]);
-		
+		System.out.println();
 		
 		System.out.println("------------------------");
 		int numbers3[]=new int[5];//by default all values are 0
